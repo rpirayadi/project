@@ -1,0 +1,22 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"b created b"
+		}, {
+			"sender":	"b",
+			"content":	"malo"
+		}, {
+			"sender":	"b",
+			"content":	"malo"
+		}, {
+			"sender":	"b",
+			"content":	"bye"
+		}, {
+			"sender":	"b",
+			"content":	"\"bye\"\n\t\t}],\n\t\"name\":\t\"b\"\n}"
+		}, {
+			"sender":	"b",
+			"content":	"\"bye\"\n\t\t}, {\n\t\t\t\"sender\":\t\"b\",\n\t\t\t\"content\":\t\"\\\"bye\\\"\\n\\t\\t}],\\n\\t\\\"name\\\":\\t\\\"b\\\"\\n}\"\n\t\t}],\n\t\"name\":\t\"b\"\n}"
+		}],
+	"name":	"b"
+}

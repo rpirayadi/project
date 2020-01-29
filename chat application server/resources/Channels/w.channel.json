@@ -1,0 +1,45 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"w created w"
+		}, {
+			"sender":	"w",
+			"content":	"hi"
+		}, {
+			"sender":	"server",
+			"content":	"w joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"roozbeh joined the channel."
+		}, {
+			"sender":	"roozbeh",
+			"content":	"hi"
+		}, {
+			"sender":	"server",
+			"content":	"hg joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"test joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"y joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"y joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"y joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"y joined the channel."
+		}],
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w",
+	"name":	"w"
+}

@@ -1,0 +1,25 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"kabol created afghanistan"
+		}, {
+			"sender":	"server",
+			"content":	"mazarsharif joined the channel."
+		}, {
+			"sender":	"mazarsharif",
+			"content":	"hi"
+		}, {
+			"sender":	"server",
+			"content":	"kabol left the channel."
+		}, {
+			"sender":	"server",
+			"content":	"kabol joined the channel."
+		}, {
+			"sender":	"kabol",
+			"content":	"hello"
+		}],
+	"name":	"afghanistan",
+	"name":	"afghanistan",
+	"name":	"afghanistan",
+	"name":	"afghanistan"
+}

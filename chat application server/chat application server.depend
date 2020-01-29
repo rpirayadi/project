@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1580310665 source:f:\programming\chat application server\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	"cJSON.c"
+	"ansi_escapes.h"
+
+1576229370 f:\programming\chat application server\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<limits.h>
+	<ctype.h>
+	<locale.h>
+	"cJSON.h"
+
+1576229369 f:\programming\chat application server\cjson.h
+	<stddef.h>
+
+1580309848 f:\programming\chat application server\ansi_escapes.h
+

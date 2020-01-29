@@ -1,0 +1,13 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"10 created 10"
+		}, {
+			"sender":	"10",
+			"content":	"alo"
+		}, {
+			"sender":	"10",
+			"content":	"malo"
+		}],
+	"name":	"10"
+}

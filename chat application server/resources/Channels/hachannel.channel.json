@@ -1,0 +1,10 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"bb created hachannel"
+		}, {
+			"sender":	"bb",
+			"content":	"hi"
+		}],
+	"name":	"hachannel"
+}

@@ -1,0 +1,14 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"hello created hh"
+		}, {
+			"sender":	"hello",
+			"content":	"hello"
+		}, {
+			"sender":	"server",
+			"content":	"bye joined the channel."
+		}],
+	"name":	"hh",
+	"name":	"hh"
+}

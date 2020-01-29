@@ -1,0 +1,37 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"11 created 11"
+		}, {
+			"sender":	"11",
+			"content":	"hello"
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 left the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}, {
+			"sender":	"11",
+			"content":	"gh"
+		}],
+	"name":	"11",
+	"name":	"11",
+	"name":	"11",
+	"name":	"11",
+	"name":	"11",
+	"name":	"11",
+	"name":	"11"
+}

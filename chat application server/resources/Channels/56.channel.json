@@ -1,0 +1,17 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"56 created 56"
+		}, {
+			"sender":	"56",
+			"content":	"hello every body"
+		}, {
+			"sender":	"server",
+			"content":	"56 joined 56"
+		}, {
+			"sender":	"56",
+			"content":	"hi again"
+		}],
+	"name":	"56",
+	"name":	"56"
+}

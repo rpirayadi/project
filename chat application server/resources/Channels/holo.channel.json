@@ -1,0 +1,18 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"holo created holo"
+		}, {
+			"sender":	"holo",
+			"content":	"lovely project"
+		}, {
+			"sender":	"server",
+			"content":	"holo left the channel."
+		}, {
+			"sender":	"server",
+			"content":	"holo joined the channel."
+		}],
+	"name":	"holo",
+	"name":	"holo",
+	"name":	"holo"
+}

@@ -1,0 +1,18 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"11 created channel_victory"
+		}, {
+			"sender":	"11",
+			"content":	"hi"
+		}, {
+			"sender":	"server",
+			"content":	"11 left the channel."
+		}, {
+			"sender":	"server",
+			"content":	"11 joined the channel."
+		}],
+	"name":	"channel_victory",
+	"name":	"channel_victory",
+	"name":	"channel_victory"
+}

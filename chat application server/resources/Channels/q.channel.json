@@ -1,0 +1,19 @@
+{
+	"messages":	[{
+			"sender":	"server",
+			"content":	"q created q"
+		}, {
+			"sender":	"q",
+			"content":	"alo"
+		}, {
+			"sender":	"q",
+			"content":	"malo"
+		}, {
+			"sender":	"q",
+			"content":	"hi"
+		}, {
+			"sender":	"q",
+			"content":	"hi\"\n\t\t}],\n\t\"name\":\t\"q\"\n}"
+		}],
+	"name":	"q"
+}
